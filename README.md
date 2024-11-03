@@ -79,7 +79,7 @@ Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
 <a href = "#"> <img src = "/repo-data/yt videos button.svg" width="150" height="70" > </a>
 </br>
  
-## Run On termux
+## Run On Linux
 ```
 apt update
 apt upgrade
